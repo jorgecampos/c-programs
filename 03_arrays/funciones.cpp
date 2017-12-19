@@ -11,7 +11,7 @@ int main() {
 
     const char *p = "The world is";// constante tipo cadena
 
-    /*char const *p; //Puntero a una constante.La forma correccta de decir que el char es const
+    /*char const *p; //Puntero a una constante.La forma correccta de decir que el char es consete
     char * const p; //Puntero constante (fijo)
     char const * const p; //Puntero fijo a una constante*/
 
